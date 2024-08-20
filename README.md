@@ -28,7 +28,7 @@ Natura, forma e dimensioni devono essere simili solo se si deve preservare anche
 
 ![image](https://github.com/user-attachments/assets/3040fa14-7a74-40e6-9092-fe41fa955d68)
 
-6) _Pulizia_ delle cavità e delle superfici e si _bagnano per favorire l'adesione della malta_. Infatti i laterizi tendono a sottrarre acqua alla malta e questo fenomeno è da contrastare bagnando i laterizi prima dell'applicazione della malta.
+6) _Pulizia_ delle cavità e delle superfici e si _bagnano per favorire l'adesione della malta_. Infatti i laterizi tendono a sottrarre acqua alla malta e questo fenomeno è da contrastare bagnando i laterizi prima dell'applicazione della malta. Durante la fase della pulizia occorre anche rimuovere la malta precedente per poter mettere la nuova malta.
 
 ## Fonti
 
