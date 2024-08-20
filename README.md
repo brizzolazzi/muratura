@@ -24,11 +24,17 @@ Natura, forma e dimensioni devono essere simili solo se si deve preservare anche
 
 4) Scrostare e pulire i bordi della zona interessata al fine di individuare l'_area_ da cui iniziare i lavori e la _direzione_ (di solito _si parte dal punto più basso_).
 
+## Scucitura
+
 5) Smontaggio della muratura nella zona interessata, lasciando un contorno frastagliato per permettere l'_ammorsatura_ tra la esistente e quella nuova.
 
 ![image](https://github.com/user-attachments/assets/3040fa14-7a74-40e6-9092-fe41fa955d68)
 
 6) _Pulizia_ delle cavità e delle superfici e si _bagnano per favorire l'adesione della malta_. Infatti i laterizi tendono a sottrarre acqua alla malta e questo fenomeno è da contrastare bagnando i laterizi prima dell'applicazione della malta. Durante la fase della pulizia occorre anche rimuovere la malta precedente per poter mettere la nuova malta.
+
+## Cucitura
+
+7) Lo spessore dei letti di malta (ovvero la malta due strati di mattoni) deve essere il più limitato possibile, al fine di evitare la riduzione di volume per effetto del ritiro e per l'incremento del carico dovuto alla messa in opera degli strati superiori (gli strati superiori pesano e schiacciano la malta fresca). 
 
 ## Fonti
 
